@@ -1,6 +1,6 @@
 # 🕵️‍♂️ VarshSec — Online Bug Bounty Recon Viewer
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%E2%86%92-brightgreen)](https://your-vercel-link.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%E2%86%92-brightgreen)]https://bug64-toolkit.vercel.app/
 [![Built with HTML/CSS/JS](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-blue.svg)]()
 [![Repo Size](https://img.shields.io/github/repo-size/VarshSec/Bug64.svg)]()
 
@@ -9,14 +9,14 @@
 ---
 
 <p align="center">
-  <a href="https://your-vercel-link.vercel.app" target="_blank" rel="noopener">
+  <a href="https://bug64-toolkit.vercel.app/" target="_blank" rel="noopener">
     <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-%E2%96%B6%20Launch%20Now-brightgreen?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://your-vercel-link.vercel.app" target="_blank" rel="noopener" style="text-decoration:none;">
+  <a href="https://bug64-toolkit.vercel.app/" target="_blank" rel="noopener" style="text-decoration:none;">
     <span style="
       display:inline-block;
       padding:18px 36px;
