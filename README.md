@@ -1,43 +1,56 @@
-🕵️‍♂️ VarshSec Bug Bounty Toolkit
+# 🕵️‍♂️ VarshSec — Online Bug Bounty Recon Viewer
 
-Description:
-A fully interactive Bug Bounty Recon Toolkit built with pure HTML, CSS, and JavaScript — no backend required. This toolkit provides categorized, ready-to-copy commands for subdomain enumeration, recon, vulnerability scanning, and exploitation testing. Each section includes automation-ready tools used by professional bug bounty hunters and red teamers.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%E2%86%92-brightgreen)](https://your-vercel-link.vercel.app)
+[![Built with HTML/CSS/JS](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-blue.svg)]()
+[![Repo Size](https://img.shields.io/github/repo-size/VarshSec/Bug64.svg)]()
 
-Features:
+> A lightweight, interactive browser-based recon toolkit with categorized, copy-ready commands for bug bounty recon and pentesting reconnaissance.
 
-🧭 Domain-based recon automation
+---
 
-🧰 50+ categorized tools and 100+ prebuilt commands
+<p align="center">
+  <a href="https://your-vercel-link.vercel.app" target="_blank" rel="noopener">
+    <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-%E2%96%B6%20Launch%20Now-brightgreen?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-🔍 Live search for tools and keywords
 
-💾 One-click command copy feature
+<p align="center">
+  <a href="https://your-vercel-link.vercel.app" target="_blank" rel="noopener" style="text-decoration:none;">
+    <span style="
+      display:inline-block;
+      padding:18px 36px;
+      font-size:20px;
+      font-weight:700;
+      background: linear-gradient(90deg,#00ff41,#00d4ff);
+      color:#000;
+      border-radius:12px;
+      box-shadow: 0 10px 30px rgba(0,255,65,0.18);
+      letter-spacing:0.4px;
+      text-transform:uppercase;
+    ">
+      ▶️ Live Demo — Click to Launch
+    </span>
+  </a>
+</p>
 
-💡 Dynamic domain input that personalizes all commands
+## 🔎 Project Overview
+**Online Bug Bounty Recon Viewer** (VarshSec) is a static, frontend-only toolkit (HTML / CSS / Vanilla JS) that consolidates commonly used reconnaissance and scanning commands into a single searchable UI. Enter a domain and get terminal-ready command templates across subdomain discovery, URL collection, parameter extraction, scanning, and common vulnerability checks.
 
-⚡ Neon cyberpunk UI optimized for readability
+This repo is a **cheat-sheet UI** for OSINT & pentest tooling — ideal for rapid recon workflows, teaching, and documentation. No servers. No tracking. Open the HTML file locally or deploy on static hosting.
 
-🛠 Covers: Subdomain Enumeration, ASN Discovery, URL Collection, Vulnerability Scanning, SSRF, LFI, CORS, Open Redirects, Git Disclosure, WordPress Security, and more.
+---
 
-Tech Stack:
+## ⚡ Key Features
+- 🔁 Dynamic domain templating — enter a domain and all commands update automatically.  
+- 📋 One-click copy for commands (clipboard-ready).  
+- 🔍 Live search across tools and commands.  
+- 🧰 50+ tools & 100+ curated commands (amass, subfinder, httpx, nuclei, ffuf, dirsearch, wpscan, etc.).  
+- 🎨 Neon cyberpunk UI with responsive layout — mobile & desktop friendly.  
+- 🗂️ Categorized sections: Subdomain Enumeration, ASN/IP Discovery, URL Collection, Live Host Discovery, LFI/SSRF/CORS/Open-Redirect checks, Directory Bruteforcing, WordPress checks, Sensitive File Discovery, and more.  
+- ⚙️ Fully static — open `online_viewer_net.htm` in any browser or host on Vercel/GitHub Pages.
 
-HTML5
+---
 
-CSS3 (Neon Cyberpunk Theme)
-
-Vanilla JavaScript
-
-Font Awesome & Google Fonts (Orbitron + Fira Code)
-
-Usage:
-
-Open the file in a browser or deploy on Vercel.
-
-Enter any domain (e.g., example.com).
-
-Instantly generate recon commands tailored to that domain.
-
-Copy and use them directly in your terminal.
-
-Ideal for:
-Bug bounty hunters, red teamers, and cybersecurity students who want a quick-access, offline-ready command reference for recon and exploitation tasks.
+## 🧭 How to Use
+🚀 Quick Deploy (Vercel)
