@@ -1,6 +1,6 @@
 # 🕵️‍♂️ VarshSec — Online Bug Bounty Recon Viewer
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%E2%86%92-brightgreen)]https://bug64-toolkit.vercel.app/
+
 [![Built with HTML/CSS/JS](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-blue.svg)]()
 [![Repo Size](https://img.shields.io/github/repo-size/VarshSec/Bug64.svg)]()
 
